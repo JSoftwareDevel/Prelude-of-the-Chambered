@@ -1,13 +1,8 @@
-Prelude of the Chambered
-========================
-
-Notch's [Prelude of the Chambered 48-hour game](http://s3.amazonaws.com/ld48/index.html).
-
-## Pre-requisite
-* Java 6 or higher
-* Ant installed
-
-## How to run
-* 1) Launch terminal
-* 2) Go to the root project
-* 3) Type : `ant run`
+# Prelude-of-the-Chambered-for-Android
+Notch's Prelude of the Chambered for Android Port
+![Game Image 1](/img/img1.jpg)
+![Game Image 2](/img/img2.jpg)
+![Game Image 3](/img/img3.jpg)
+![Game Image 4](/img/img4.jpg)
+![Game Image 5](/img/img5.jpg)
+![Game Image 6](/img/img6.jpg)
